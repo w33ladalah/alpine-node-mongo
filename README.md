@@ -1,4 +1,8 @@
-# docker-alpine-mongo
+# Alpine Node MongoDB Docker Image
+
+This is fork of [mvertes/alpine-mongo](https://hub.docker.com/r/mvertes/alpine-mongo/) which based on [mhart/alpine-node](https://hub.docker.com/r/mhart/alpine-node).
+
+------------
 
 This repository contains Dockerfile for [MongoDB 3.2](https://www.mongodb.org)
 container, based on the [Alpine 3.3](https://hub.docker.com/_/alpine/) image.

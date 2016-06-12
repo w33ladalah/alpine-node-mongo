@@ -1,4 +1,4 @@
-From alpine:edge
+FROM mhart/alpine-node
 
 ADD run /
 ADD https://raw.githubusercontent.com/mvertes/dosu/0.1.0/dosu /sbin/
